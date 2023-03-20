@@ -1,4 +1,4 @@
-### Bem-vindo(a) ao meu perfil 
+### Seja Bem-vindo(a), espero que goste ^-^
 
 <div>
   <a href="https://github.com/JoseKaio">
