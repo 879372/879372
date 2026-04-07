@@ -1,50 +1,47 @@
-# 👋 Olá, eu sou o Kaio!
+# Olá, eu sou Kaio 👋
 
-💻 Desenvolvedor focado em sistemas web, automação e integrações  
-🚀 Stack principal: Django, React, APIs e n8n  
-📍 Brasil
+Desenvolvedor focado em sistemas web, automações e integrações.
 
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=879372&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=879372&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"
-  />
-</p>
+Trabalho com aplicações voltadas para operações, APIs, fluxos automatizados e soluções que ajudam processos do dia a dia a ficarem mais simples e escaláveis.
 
 ---
 
-## 🚀 Tecnologias
+## Sobre mim
 
-<p align="center">
-  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+- Desenvolvimento back-end com foco em Django e APIs REST
+- Experiência com front-end usando React
+- Automações e integrações com n8n
+- Interesse em arquitetura de sistemas, produtividade e soluções práticas
+
+---
+
+## Tecnologias
+
+<p align="left">
   <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="Django" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## O que você vai encontrar por aqui
 
-- Trabalho com sistemas web, automações e integrações
-- Experiência com Django, React, APIs e n8n
-- Foco em otimização de processos e evolução contínua
+- Projetos de sistemas web
+- Estudos e experimentos com automação
+- Integrações com APIs e serviços externos
+- Estruturas e ideias para produtos e processos
 
 ---
 
-## 📫 Contato
+## Contato
 
-<p align="center">
+<p align="left">
   <a href="mailto:kaios5028@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -58,8 +55,7 @@
 
 ---
 
-## 🐍 Contribuições
+## Mensagem final
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/879372/879372/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+Seja bem-vindo ao meu perfil.  
+Aqui compartilho projetos, ideias e soluções que fazem parte da minha jornada com tecnologia.
